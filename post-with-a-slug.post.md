@@ -1,7 +1,8 @@
 ---
 title: Post with a Slug
 description: The description for a post with a slug
-tags: [Tag-1, Blog]
+tags: [php, blog]
+created_at: '2025-01-27T02:00:00.000Z'
 ---
 
 # Heading one

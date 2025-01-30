@@ -1,6 +1,9 @@
 ---
 title: Post One Example
+slug: post-one
 description: This is the description for Post One Example
+tags: [blog]
+created_at: '2025-01-11T02:00:00.000Z'
 ---
 
 # Post one example
