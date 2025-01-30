@@ -1,4 +1,4 @@
 ---
-name: Code Samples
-slug: code-samples
+name: Code
+slug: code
 ---

@@ -1,6 +1,7 @@
 ---
 title: Update your WordPress database when migrating for local development with SQL.
 description: Whenever I have to develop a WordPress site, plugin or theme I end up migrating the existing website (be it a staging or development site) to my machine and working on it locally. This is usually a tedious process (if you've ever done it before you know what I mean).
+tags: [mysql-databases, code, php, wordpress]
 created_at: '2018-02-21T02:00:00.000Z'
 ---
 

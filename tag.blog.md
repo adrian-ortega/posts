@@ -1,5 +1,5 @@
 ---
 name: Blog
-slug: slug
+slug: blog
 description: Generic posts
 ---
