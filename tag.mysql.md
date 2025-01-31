@@ -1,4 +1,4 @@
 ---
 name: MySQL Databases
-slug: mysql-databases
+slug: mysql
 ---

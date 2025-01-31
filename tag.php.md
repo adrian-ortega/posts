@@ -1,3 +1,4 @@
 ---
 name: PHP
+slug: php
 ---
