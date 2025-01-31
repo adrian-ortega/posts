@@ -1,4 +1,3 @@
 ---
 name: WordPress
-slug: wordpress
 ---

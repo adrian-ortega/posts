@@ -1,4 +1,3 @@
 ---
 name: Code
-slug: code
 ---
