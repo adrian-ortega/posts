@@ -3,8 +3,8 @@ title: "Understanding the Power of Markdown"
 page_title: "Mastering Markdown for Blogging"
 description: "A deep dive into using Markdown effectively for writing clean, structured, and efficient blog posts."
 tags: ["markdown", "blogging", "productivity", "writing", "tech", "guides"]
-thumbnail: "/images/thumbnails/markdown-guide.jpg"
-cover_image: "/images/covers/markdown-banner.jpg"
+thumbnail: "/images/thumbnails/small.jpg"
+cover_image: "/images/covers/tree.jpg"
 created_at: "2025-01-31T12:00:00Z"
 published_at: "2025-02-01T08:00:00Z"
 updated_at: "2025-02-02T10:30:00Z"
@@ -40,15 +40,15 @@ Markdown is a lightweight markup language that allows writers to format text usi
 
 ### Full-Width Image
 
-![Markdown Banner](/assets/images/markdown-banner.jpg)
+![Markdown Banner](/assets/images/tree.jpg)
 
 ### Medium-Sized Image
 
-![Markdown Example](/assets/images/markdown-example.jpg)
+![Markdown Example](/assets/images/medium.jpg)
 
 ### Small Inline Image
 
-![Markdown Icon](/assets/images/markdown-icon.png)
+![Markdown Icon](/assets/images/small.png)
 
 ### Text Formatting
 
