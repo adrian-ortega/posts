@@ -1,6 +1,6 @@
 ---
 title: Jeffrey's Boldly Going Nowhere
-created_at: 2017-07-12T00:31:14.000Z
+created_at: '2017-07-12T00:31:14.000Z'
 cover_image: "/assets/images/jeffreysboldlygoingnowhere-screenshot.jpg"
 description: A few months back I was a lowly freelancer looking for a job. While updating my resume, I realized that I had not updated my portfolio in a long time and needed to have something fresh in there to talk about during prospective interviews. Most of the work I have done has almost always been with Wordpress as the CMS. But I had never really done a full blown blog that utilized Wordpress to its capacity.
 tags: [blog, wordpress]

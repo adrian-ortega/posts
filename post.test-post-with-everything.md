@@ -8,9 +8,6 @@ cover_image: "/assets/images/tree.jpg"
 created_at: "2025-01-31T12:00:00Z"
 published_at: "2025-02-01T08:00:00Z"
 updated_at: "2025-02-02T10:30:00Z"
-author: "Adrian Ortega"
-word_count: 1250
-reading_time: "6 min"
 draft: false
 featured: true
 ---
