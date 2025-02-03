@@ -2,7 +2,7 @@
 title: "Understanding the Power of Markdown"
 page_title: "Mastering Markdown for Blogging"
 description: "A deep dive into using Markdown effectively for writing clean, structured, and efficient blog posts."
-tags: ["markdown", "blogging", "productivity", "writing", "tech", "guides"]
+tags: ["blog"]
 thumbnail: "/assets/images/small.jpg"
 cover_image: "/assets/images/tree.jpg"
 created_at: "2025-01-31T12:00:00Z"
