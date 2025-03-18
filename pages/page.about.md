@@ -4,7 +4,7 @@ sidebar: default
 ---
 
 # Adrian Ortega
-## Developer, Creator, Goofball
+### Developer, Creator, Goofball
 
 Hello, my name is Adrian Ortega.
 
