@@ -3,7 +3,8 @@ page_title: A little more about me
 sidebar: default
 ---
 
-# Adrian Ortega – Developer, Creator, Goofball
+# Adrian Ortega
+## Developer, Creator, Goofball
 
 Hello, my name is Adrian Ortega.
 
