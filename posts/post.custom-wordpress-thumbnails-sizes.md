@@ -10,7 +10,7 @@ When working with [WordPress](http://wordpress.org/), there are times that we ne
 
 When a user uploads an image into the Media Library, WordPress resizes images to three varying sizes: `thumbnail`, `medium`, `large` and keeps the original size called full. The sizes dimensions can be changed in the Settings section of the admin panel.
 
-![Wordpress's default image sizes](assets/images/wp-default-image-sizes.png)
+![Wordpress's default image sizes](/assets/images/wp-default-image-sizes.png)
 
 These sizes can be changed, but won't apply to older images that have been saved in the Media Library. So think about the sizes you're going to be using throughout the site before creating your theme. This will make it so that images that are added after your theme is activated will be resized/cropped after being uploaded.
 
