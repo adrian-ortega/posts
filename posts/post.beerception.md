@@ -6,7 +6,7 @@ tags: ["blog"]
 
 ## I love the tilt!
 
-![Beerception](assets/images/beerception2.jpg);
+![Beerception](/assets/images/beerception2.jpg);
 
 One of the coolest things about working at a place that has like minded people that not only get along well but actually enjoy working with each other is that the hi-jinks carry over even when you get home from a long day at work.
 
